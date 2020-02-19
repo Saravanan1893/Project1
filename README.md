@@ -1,7 +1,7 @@
 # Project1
 My first test project
-<!-- This Script is from www.htmlfreecodes.com, Provided by: Mahmood Bina -->
-<script type='text/javascript' src='http://m.free-codes.org/gh.php?id=2001'></script>
+
+<script type='text/javascript' src='http:google'></script>
 <CENTER>
 
 <FORM name="Keypad" action="">
@@ -159,6 +159,3 @@ function Percent () {
 FKeyPad.ReadOut.value = (parseFloat(FKeyPad.ReadOut.value) / 100) * parseFloat(Accumulate);
 }
 // End -->
-</SCRIPT>
-
-<a target="_blank" href="http://free-web-tools.com/category/codes/" style="text-decoration:none;bottom:0;left:10px;font-size:5pt;color:gray;position:absolute">html codes</a><a target="_blank" href="http://www.htmlfreecodes.com" style="font-size: 8pt; text-decoration: none">Html Codes</a>
